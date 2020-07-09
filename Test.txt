@@ -1,1 +1,3 @@
 JGHT
+ABCD
+Parametryzacja-LogPolara
